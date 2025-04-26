@@ -56,7 +56,7 @@ const books = [
       <div class="books-list">
         <div class="book">
           <div class="book-cover">
-            <img src="https://printpress.cmsmasters.net/default/wp-content/uploads/sites/11/2019/05/printpress-product-6-540x861.jpg" />
+            <img src="https://printpress.cmsmasters.net/default/wp-content/uploads/sites/11/2019/05/printpress-product-6-540x861.jpg"/>
   
             <button>
               <i class="fa-solid fa-eye"></i>
